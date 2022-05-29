@@ -5,6 +5,7 @@ public class manage {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         System.out.println("Your entered number is " + a);
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
+        System.out.println("Hello world 1!");
     }
 }
